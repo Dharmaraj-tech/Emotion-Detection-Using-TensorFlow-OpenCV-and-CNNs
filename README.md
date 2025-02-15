@@ -11,11 +11,19 @@ Key Highlights:
 This hands-on experience enhanced my "skills in deep learning, computer vision, and mobile app development". Excited to continue exploring the possibilities of AI in real-world applications!  
 
 STEPS TO IMPLEMENTATION
+
 First download an data set for trainning process
+
 LINK https://www.kaggle.com/datasets/msambare/fer2013
+
 Then import it to the project folder
+
 Copy this both files to your folder 
+
 Import the required packages { TensorFlow, OpenCV, and CNNs }
+
 Then run the trainemotion.py file
+
 It will takes some time depends on your system configuration then it will create an new module based on your dataset 
+
 Then run the testemotion.py file to access the module and shows the result of your face .
